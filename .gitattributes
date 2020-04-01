@@ -1,0 +1,4 @@
+app/templates/* linguist-vendored
+app/static/* linguist-vendored
+notebooks/* linguist-vendored
+posts/* linguist-vendored
